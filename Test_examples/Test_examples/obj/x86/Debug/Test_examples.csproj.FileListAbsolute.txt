@@ -1,0 +1,9 @@
+C:\Users\WDV\Documents\Visual Studio 2010\Projects\Npgsql_Helper_\Test_examples\Test_examples\obj\x86\Debug\Test_examples.csprojResolveAssemblyReference.cache
+C:\Users\WDV\Documents\Visual Studio 2010\Projects\Npgsql_Helper_\Test_examples\Test_examples\bin\Debug\Test_examples.exe
+C:\Users\WDV\Documents\Visual Studio 2010\Projects\Npgsql_Helper_\Test_examples\Test_examples\bin\Debug\Test_examples.pdb
+C:\Users\WDV\Documents\Visual Studio 2010\Projects\Npgsql_Helper_\Test_examples\Test_examples\bin\Debug\Mono.Security.dll
+C:\Users\WDV\Documents\Visual Studio 2010\Projects\Npgsql_Helper_\Test_examples\Test_examples\bin\Debug\Npgsql.dll
+C:\Users\WDV\Documents\Visual Studio 2010\Projects\Npgsql_Helper_\Test_examples\Test_examples\bin\Debug\Npgsql_Helper_.dll
+C:\Users\WDV\Documents\Visual Studio 2010\Projects\Npgsql_Helper_\Test_examples\Test_examples\bin\Debug\Npgsql_Helper_.pdb
+C:\Users\WDV\Documents\Visual Studio 2010\Projects\Npgsql_Helper_\Test_examples\Test_examples\obj\x86\Debug\Test_examples.exe
+C:\Users\WDV\Documents\Visual Studio 2010\Projects\Npgsql_Helper_\Test_examples\Test_examples\obj\x86\Debug\Test_examples.pdb
