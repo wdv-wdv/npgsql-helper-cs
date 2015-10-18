@@ -2,7 +2,7 @@
 Npgsql helper library for C# 
 Copyright (C) 2015 Kionier
 
-<!--- For guides on how to use this library, please go to <http://kionier.com/twitter-api>. -->
+For guides on how to use this library, please go to <http://kionier.com/npgsql-helper/>.
 
 This software is free software: you can redistribute it and/or modify it under the terms of the 
 GNU General Public License (GPL) or GNU Lesser General Public License (LGPL) as published by
